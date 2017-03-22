@@ -1,0 +1,23 @@
+{
+  "name": "express-cross-origin-resource-sharing",
+  "version": "0.0.1",
+  "description": "cors middleware for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pabloLagioia/express-cross-origin-resource-sharing.git"
+  },
+  "keywords": [
+    "cors",
+    "express"
+  ],
+  "author": "pablo.lagioia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabloLagioia/express-cross-origin-resource-sharing/issues"
+  },
+  "homepage": "https://github.com/pabloLagioia/express-cross-origin-resource-sharing#readme"
+}
